@@ -210,6 +210,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Horma_TOP
       objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 388caca11d3c09845a4bb13df5259a6b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 388caca11d3c09845a4bb13df5259a6b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
