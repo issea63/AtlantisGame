@@ -3,7 +3,12 @@ guid: bb4ab4d8ea7a1b344a4aa2c23ea75f56
 ModelImporter:
   serializedVersion: 24600
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AtlantisProxy
+    second: {fileID: 2100000, guid: 52987fbd741d6bd488aac62cd3384e81, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

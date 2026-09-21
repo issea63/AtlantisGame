@@ -82,6 +82,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: a25328eb99491204ab4cc1f54f9fb2fa, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52987fbd741d6bd488aac62cd3384e81, type: 2}
     - target: {fileID: 919132149155446097, guid: a25328eb99491204ab4cc1f54f9fb2fa, type: 3}
       propertyPath: m_Name
       value: Horma
@@ -144,6 +148,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 9d17392e7bf023748b8d3763318561be, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52987fbd741d6bd488aac62cd3384e81, type: 2}
     - target: {fileID: 919132149155446097, guid: 9d17392e7bf023748b8d3763318561be, type: 3}
       propertyPath: m_Name
       value: Horma_OBJ_BOTTOM
@@ -172,7 +180,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 388caca11d3c09845a4bb13df5259a6b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4
+      value: 3.5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 388caca11d3c09845a4bb13df5259a6b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -206,6 +214,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 388caca11d3c09845a4bb13df5259a6b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52987fbd741d6bd488aac62cd3384e81, type: 2}
     - target: {fileID: 919132149155446097, guid: 388caca11d3c09845a4bb13df5259a6b, type: 3}
       propertyPath: m_Name
       value: Horma_TOP
