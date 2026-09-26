@@ -82,6 +82,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 1b01de24c317ff14687900d53058721c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52987fbd741d6bd488aac62cd3384e81, type: 2}
     - target: {fileID: 919132149155446097, guid: 1b01de24c317ff14687900d53058721c, type: 3}
       propertyPath: m_Name
       value: ZutabeOinarria
@@ -144,6 +148,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 34871d0fb2fdbbd4a9df835618430f97, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52987fbd741d6bd488aac62cd3384e81, type: 2}
     - target: {fileID: 919132149155446097, guid: 34871d0fb2fdbbd4a9df835618430f97, type: 3}
       propertyPath: m_Name
       value: ZutabeKapitela
@@ -206,6 +214,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 57ebfb1707c078147b945e2d3e7618d8, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 52987fbd741d6bd488aac62cd3384e81, type: 2}
     - target: {fileID: 919132149155446097, guid: 57ebfb1707c078147b945e2d3e7618d8, type: 3}
       propertyPath: m_Name
       value: Zutabe

@@ -1,4 +1,4 @@
-# Blender 5.2.1 LTS MTL File: 'Horma.blend'
+# Blender 5.2.2 LTS MTL File: 'Horma_casa.blend'
 # www.blender.org
 
 newmtl AtlantisProxy
@@ -9,4 +9,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/PlanoSheet_DefaultMaterial_BaseMap.tga
+map_Kd C:/plano_AtlantisProxy_BaseColor.tga
